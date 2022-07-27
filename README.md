@@ -35,11 +35,11 @@
 ##### Angular based
 1. [Angular.io](https://angular.io/start)
 ##### React based
-1. [React as is]() 
-2. [Create-react-app]()
-3. [Gatsby]()
-4. [Next]()
-5. [Create-next-app]()
+1. [React as is](https://reactjs.org/docs/getting-started.html) 
+2. [Create-react-app](https://create-react-app.dev/docs/getting-started/)
+3. [Gatsby](https://www.gatsbyjs.com/docs)
+4. [Next](https://nextjs.org/docs)
+5. [Create-next-app](https://nextjs.org/docs/api-reference/create-next-app)
 
 ##### Vue based
 3. Vue
