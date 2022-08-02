@@ -91,5 +91,9 @@
 
 ##### Books && Cources
 1. [learn.javasript.ru](https://learn.javascript.ru/)
-
+2. [https://www.youtube.com/c/%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4](https://www.youtube.com/c/%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4)
+3. [ULBI TV](https://www.youtube.com/c/UlbiTV)
+4. [Architecture](https://www.youtube.com/watch?v=Zy-Oj6qs8vo)
+5. [Ulbi - Nodejs](https://www.youtube.com/watch?v=243pQXC5Ebs)
+6. [IT Kamasutra -- основы](https://www.youtube.com/c/ITKAMASUTRA)
 
