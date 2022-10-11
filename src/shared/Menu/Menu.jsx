@@ -2,7 +2,7 @@ import {get, map} from "lodash";
 import {Link} from "react-router-dom";
 import {Group, Text} from "@mantine/core";
 
-function AppMenu({ ...props }) {
+function Menu({ ...props }) {
   
   const items = get(props, "items", []);
   return (
@@ -16,4 +16,4 @@ function AppMenu({ ...props }) {
   );
 }
 
-export default AppMenu;
+export default Menu;

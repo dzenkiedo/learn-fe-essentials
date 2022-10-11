@@ -1,7 +1,7 @@
 export {default as ActionBar} from "./ActionBar";
-export {default as AppFooter} from "./AppFooter";
-export {default as AppHeader} from "./AppHeader";
-export {default as AppMenu} from "./AppMenu";
+export {default as Footer} from "./Footer";
+export {default as Header} from "./Header";
+export {default as Menu} from "./Menu";
 /*
 export {default as Logo} from "./Logo";
 export {default as ActionBar} from "./ActionBar";

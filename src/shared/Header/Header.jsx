@@ -1,10 +1,10 @@
 import React from "react";
 import Logo from "../Logo/Logo";
-import {Container, Group, Header} from '@mantine/core';
-import {Link} from "react-router-dom";
-import {AppMenu, ActionBar} from "../";
+import {Container, Group, Header as MHeader } from '@mantine/core';
+// import {Link} from "react-router-dom";
+import {Menu, ActionBar} from "../";
 
-function AppHeader() {
+function Header() {
   
   const navigationItems = [{
     link: "/",
@@ -21,19 +21,19 @@ function AppHeader() {
   }];
   
   return (
-    <Header height={90}>
+    <MHeader height={90}>
       <Container size="md" p="xs">
-        <Group grow position="apart" grow spacing="xs">
+        <Group grow position="apart" spacing="xs">
           <Logo/>
           <Group position="left" spacing="xs">
-            <AppMenu/>
+            <Menu/>
             <ActionBar/>
           </Group>
         </Group>
       </Container>
-    </Header>
+    </MHeader>
   )
   
 }
 
-export default AppHeader;
+export default Header;

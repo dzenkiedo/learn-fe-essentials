@@ -1,5 +1,5 @@
-import {AppHeader, AppFooter} from "../shared";
-import About from "../pages/About";
+import {Header, Footer} from "../shared";
+// import About from "../pages/About";
 import ErrorNotFound from "../pages/404";
 import Cart from "../pages/Cart";
 import Home from "../pages/Home";
@@ -17,7 +17,7 @@ function App() {
       justify="flex-start"
       spacing="xs"
     >
-      <AppHeader/>
+      <Header/>
       <Container fluid>
         <Routes>
           <Route path="/" element={<Home/>}/>
@@ -28,7 +28,7 @@ function App() {
           <Route path={'*'} element={<ErrorNotFound/>}/>
         </Routes>
       </Container>
-      <AppFooter/>
+      <Footer/>
     </Stack>
   );
 }
