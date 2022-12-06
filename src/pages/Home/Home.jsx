@@ -1,7 +1,15 @@
+import { get } from "lodash";
 import {Link, Route} from "react-router-dom";
 import {Group} from "@mantine/core";
 
 function Home() {
+  
+
+
+
+
+
+   
   return (
     <Group grow spacing={32}>
     
